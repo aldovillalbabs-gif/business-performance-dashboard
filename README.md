@@ -28,12 +28,11 @@ I cleaned and enriched raw datasets, built business KPIs, designed an interactiv
 
 ---
 
-## Key Insights (Example)
+## Key Insights 
 - Departments with **high Sales/m²** indicate strong efficiency and can justify **higher inventory priority**.
 - Departments with **high share** but **low efficiency** may need **assortment optimization** or cost review.
 - Underperforming departments (low share + low efficiency) may be candidates for **budget reallocation**.
 
-*(Replace these bullets with your final top 2–3 insights once you paste exact results.)*
 
 ---
 
