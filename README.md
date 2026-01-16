@@ -62,7 +62,6 @@ I cleaned and enriched raw datasets, built business KPIs, designed an interactiv
 
 ## Files / Structure
 - `assets/` → screenshots (dashboard, charts)
-- `docs/` → executive summary (optional export)
 - `README.md` → project overview + insights + visuals
 
 ---
