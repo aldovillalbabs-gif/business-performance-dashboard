@@ -48,7 +48,7 @@ I cleaned and enriched raw datasets, built business KPIs, designed an interactiv
 ### Dashboard (interactive KPIs)
 ### KPI 1 — Sales per m² by Department
 ### KPI 2 — Department Share of Total Sales
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
